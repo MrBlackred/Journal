@@ -1,7 +1,7 @@
 /*
  * @Author: your name
  * @Date: 2021-06-01 15:28:42
- * @LastEditTime: 2021-06-01 15:30:39
+ * @LastEditTime: 2021-06-01 16:24:38
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: /git/helloworld.c
@@ -12,5 +12,6 @@
 int main()
 {
     printf("hello world\n");
+    printf("Test\n");
     return 0;
 }
