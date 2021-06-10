@@ -13,5 +13,6 @@ int main()
 {
     printf("hello world\n");
     printf("Test\n");
+    printf("ok\n");
     return 0;
 }
