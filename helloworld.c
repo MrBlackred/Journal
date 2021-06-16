@@ -1,7 +1,7 @@
 /*
  * @Author: your name
  * @Date: 2021-06-01 15:28:42
- * @LastEditTime: 2021-06-15 16:37:27
+ * @LastEditTime: 2021-06-16 10:43:21
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: /git/helloworld.c
@@ -16,5 +16,6 @@ int main()
     printf("ok\n");
     printf("vscode\n");
     printf("nonon\n");
+    printf("2021-6-16\n");
     return 0;
 }
